@@ -1,0 +1,23 @@
+{
+  "name": "first-npm-package-786",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:masudncse/first-npm-package-786.git"
+  },
+  "keywords": [
+    "math",
+    "big",
+    "bignum",
+    "bigint",
+    "biginteger",
+    "integer",
+    "arbitrary",
+    "precision",
+    "arithmetic"
+  ]
+}
